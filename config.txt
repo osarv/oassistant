@@ -1,0 +1,1 @@
+model=gemma4:latest
